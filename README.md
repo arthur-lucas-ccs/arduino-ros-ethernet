@@ -32,7 +32,7 @@ O projeto foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC
 ## ⚙️ Configuração de Rede
 
 Para que o ROS encontre o Arduino, ambos devem estar na mesma faixa de IP.
-Edite o arquivo `main.cpp` com os IPs da sua rede:
+Edite o arquivo `main.c` com os IPs da sua rede:
 
 ```cpp
 // Exemplo de configuração no código
